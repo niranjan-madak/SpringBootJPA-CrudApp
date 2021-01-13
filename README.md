@@ -1,2 +1,2 @@
 # SpringBootJPA-CrudApp
-this app shows the basic ideo of working with JPA repository
+this app shows the basic idea of working with JPA repository
